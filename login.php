@@ -7,7 +7,8 @@
    
   
     <!-- Custom StyleSheet -->
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel='stylesheet' type='text/css' href='styles.css' />
+
     <title>Login</title>
   </head>
   <body>
